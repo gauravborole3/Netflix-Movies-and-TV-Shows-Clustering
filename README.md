@@ -36,7 +36,9 @@ The goal is to understand content patterns, country-wise distribution, Netflix�
 
 ## Repository Structure
 data/ → Dataset
+
 notebook/ → Jupyter notebook
+
 presentation/ → Project presentation
 
 
